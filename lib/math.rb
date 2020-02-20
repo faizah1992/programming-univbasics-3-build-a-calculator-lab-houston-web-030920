@@ -11,11 +11,15 @@ subtraction
 end
 
 def division(num1, num2)
-
+division=num1/num2
+puts division
+division
 end
 
 def multiplication(num1, num2)
-
+multiplication=num1*num2
+puts multiplication
+multiplication
 end
 
 def modulo(num1, num2)
